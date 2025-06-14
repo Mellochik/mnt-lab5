@@ -1,0 +1,8 @@
+torch 
+torchvision
+torchaudio
+pillow
+numpy
+kagglehub
+scikit-learn
+tqdm
